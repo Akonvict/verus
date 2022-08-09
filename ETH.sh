@@ -1,0 +1,1 @@
+wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.51a/lolMiner_v1.51a_Lin64.tar.gz && tar xvzf lolMiner_v1.51a_Lin64.tar.gz && cd 1.51a/ && ./lolMiner --algo ETHASH --pool us-eth.2miners.com:2020 --user 0x5fa0664bc2f21f15a44f0fdd3d007e603a17e0de.RIG_1
